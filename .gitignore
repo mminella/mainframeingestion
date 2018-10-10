@@ -10,7 +10,8 @@ _site/
 /application.properties
 asciidoctor.css
 atlassian-ide-plugin.xml
-bin/
+bin/local/
+bin/cloudfoundry/
 build/
 dump.rdb
 out
